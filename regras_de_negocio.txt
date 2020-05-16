@@ -1,0 +1,5 @@
+Algumas regras de negócio especificadas
+
+  * Somente funcionario que seja gerente tem um cartao de credito corporativo. 
+  * Para um funcionario que seja gerente, seu salario sempre sera 10% maior que o estipulado. 
+  * Funcionarios que sejam analistas devem ter seu nivel definido (JR/PL/SR). Caso o nivel nao exista, a operacao nao deve ser realizada. 
